@@ -18,7 +18,7 @@ Virtuelle Realitäten und das Internet der Dinge
 ### Abgrenzung der Begriffe
 
 -   In die computergenerierte, virtuelle Realität taucht der Nutzer so
-    vollständig wie möglich ein (z.B. VR-Headset). |
+    vollständig wie möglich ein (z.B. VR-Headset). 
 -   Die erweiterte Realität ergänzt die Wahrnehmung mit
     computergenerierten Zusatzinformationen. |
 -   Das Internet der Dinge bindet Gegenstände ins Internet ein und macht
@@ -41,7 +41,7 @@ Konstruktion und Wahrnehmung virtueller Welten
 ### Stereoskopie und Raumbildaufnahmen
 
 -   Bau und Verwendung eines Stereoskops zur Betrachtung von
-    Raumbildaufnahmen |
+    Raumbildaufnahmen 
 -   Bau und Verwendung einer einfachen VR-Brille (google cardboard)
 -   Virtueller Rundgang durch die Schule |
 
@@ -59,7 +59,7 @@ Mars-Rovers](https://www.360cities.net/image/curiosity-rover-martian-solar-day-2
 ### Panorama- und 360°-Aufnahmen
 
 -   Aufnahme, Zusammenfügen und Präsentation von Einzelbildern zu
-    Panorama-/360°-Aufnahmen |
+    Panorama-/360°-Aufnahmen 
 -   Erstellen eines Planetariums für die Sternwarte |
 -   Anschauliche Tutorial-Videos: z.B. Bau eines Modellmotors |
 
@@ -81,7 +81,7 @@ Eine ERP-Stelle in Singapur (Electronic Road Pricing)
 
 ### Anbringen und programmieren benötigter Hardware
 
--   Umweltsensoren für eine Wetterstation |
+-   Umweltsensoren für eine Wetterstation 
 -   Messung von Körperfunktionen (medizinische
     Anwendung, Fitnesstracker) |
 -   Ein Knopf, viele Möglichkeiten: Türklingel, Notfallknopf, Aktivieren
