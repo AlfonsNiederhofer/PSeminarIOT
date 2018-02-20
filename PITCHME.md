@@ -5,7 +5,7 @@ Virtuelle Realitäten und das Internet der Dinge
 
 ### Das Höhlengleichnis Platons 
 
-![](hoehlengleichnis.jpg){:height="50%" width="50%"}
+<img src="hoehlengleichnis.jpg" style="width:70%">
 
 ---
 
