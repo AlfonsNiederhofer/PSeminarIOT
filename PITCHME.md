@@ -9,7 +9,7 @@ Virtuelle Realitäten und das Internet der Dinge
 
 ---
 
-### ![](TheMatrixAnimated.gif)
+![](TheMatrixAnimated.gif)
 
 ![](rainingcode.gif)
 
