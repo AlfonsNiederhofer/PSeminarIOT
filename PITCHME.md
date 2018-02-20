@@ -1,6 +1,8 @@
 Virtuelle Realitäten und das Internet der Dinge
 ===============================================
 
+---
+
 ### Das Höhlengleichnis Platons 
 
 ![](hoehlengleichnis.jpg)
