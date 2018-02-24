@@ -11,7 +11,7 @@ Virtuelle Realitäten und das Internet der Dinge
 
 ![](TheMatrixAnimated.gif)
 
-<div class="fragment"> ![](rainingcode.gif) </div>
+<div class="fragment" style="width:70%"> ![](rainingcode.gif) </div>
 
 ---
 
